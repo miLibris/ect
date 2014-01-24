@@ -14,7 +14,7 @@
 		"url" : "git://github.com/baryshev/ect.git"
 	},
 	"dependencies" : {
-		"coffee-script" : ">= 1.5.0",
+		"iced-coffee-script" : "1.6.3-f",
 		"optimist" : "0.4.0"
 	},
 	"engines" : { "node" : ">= 0.4.0" }
